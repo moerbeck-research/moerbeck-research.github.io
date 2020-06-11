@@ -1,6 +1,6 @@
-## MOERBECK
+## MOERBECK Research
 
-# Welcome to Moerbeck Research on GitHub
+# Welcome to Moerbeck GitHub
 
 This is our place to share the code and analytics with public. 
 
